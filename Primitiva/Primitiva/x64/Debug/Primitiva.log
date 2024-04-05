@@ -1,0 +1,5 @@
+﻿  Primitiv.cpp
+  Primitiva.cpp
+F:\Primitiva\Primitiva\Primitiva.cpp(8,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Primitiva.vcxproj -> F:\Primitiva\x64\Debug\Primitiva.exe
